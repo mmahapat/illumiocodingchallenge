@@ -11,7 +11,7 @@ Technologies and language:
 
 Programming language - JAVA
 Build Tool - Maven
-Run command - mvn clean install, mvn -Dtest=Firewall test
+Run command - mvn clean install, mvn -Dtest=FirewallTest test
 
 
 Design methodologies:
