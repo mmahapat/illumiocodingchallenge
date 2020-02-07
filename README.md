@@ -31,7 +31,7 @@ i dededuced that when input is inclined towards including a lot of port ranges t
 
 Drawback:
 
-Since i have created an IPtree for each port which increases time and space complexity.
+Since i have created an IPtree for each port which increases space complexity.
 A similar tree structure for port ranges can be done.
 Currently the solution is optimal incase there are less port ranges.
 
